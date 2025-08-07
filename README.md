@@ -31,6 +31,9 @@
     here, the gdal_dem utility is required to take a CSV file containing Lidar XYZ points, and interpolate
     to dump out a Geotiff file.
 
+    First make an output directory (call it "outputs"):
+    $ mkdir outputs
+
     Then to run at command-line, pass in the name of the lidar data file (.laz):
     $ python3 hopewell_mounds_local_maxima.py data/USGS_LPC_OH_Statewide_Phase3_2021_B21_BS18250501.laz
 
