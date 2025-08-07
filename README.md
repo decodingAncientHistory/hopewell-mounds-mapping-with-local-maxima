@@ -46,7 +46,11 @@
        
 ###### Sample Imagery
 
+    Hopewell mounds visualization:
 ![Alt text](https://64.media.tumblr.com/01dfb3d951e4720dfcad68218f6795ee/5897fe13f3538212-04/s1280x1920/dce6eec6678410cc7418d1c900b93a07dffd6e4c.pnj)
+
+    Hopewell mounds (not easily visible) with surrounding woods/forest:
+![Alt text](https://64.media.tumblr.com/99b527de14ab0d3af13c8d82efd3a874/5897fe13f3538212-d8/s1280x1920/2e5c4b8add22287e8fdf3c136bf7f2f13c4548b7.pnj)
         
 ###### @author: 
     Gerasimos Michalitsianos
